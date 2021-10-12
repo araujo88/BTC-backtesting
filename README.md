@@ -12,3 +12,10 @@
   ![Alt text](after_optimization.png?raw=true "")
 
 As observed, the final result changed from 41% (loss) to 164% (profit).
+
+Installation instructions:
+ - First, it is necessary to register at www.binance.com for API key generation
+ - Next, install requirements.txt with pip install -r requirements.txt
+
+Use instructions:
+ - The cryptocurrency, candle interval and time interval can be modified at the desired backtesting .py file. As default, the pair is set to BTC/USDT, the candle interval to 1h and time interval to 365 days from the present day.
