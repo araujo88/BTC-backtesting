@@ -1,0 +1,5 @@
+Backtesting==0.3.1
+TA_Lib==0.4.19
+pandas==1.2.4
+python_binance==1.0.7
+binance==0.3
