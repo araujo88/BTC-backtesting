@@ -19,3 +19,5 @@ Installation instructions:
 
 Use instructions:
  - The cryptocurrency, candle interval and time interval can be modified at the desired backtesting .py file. As default, the pair is set to BTC/USDT, the candle interval to 1h and time interval to 365 days from the present day.
+
+Learn more about Backtesting.py: https://kernc.github.io/backtesting.py/
